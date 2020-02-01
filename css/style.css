@@ -267,6 +267,14 @@ a:focus {
     transition: color 0.2s ease;
 }
 
+/*<--- footer --->*/
+
+.footer {
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 1;
+}
+
 /* <--- misc ---> */
 
 a img:hover,
