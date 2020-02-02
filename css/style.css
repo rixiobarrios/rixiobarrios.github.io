@@ -166,6 +166,7 @@ html {
     background-color: #f6f9f9;
     color: #919292;
     font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
 }
 body {
     margin: 10%;
