@@ -4,6 +4,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/483ca5b5-44c4-4258-86a3-2e4802d342be/deploy-status)](https://app.netlify.com/sites/second-portfolio/deploys)
 
-This portfolio was built as a placeholder while the proper portfolio was being built
+This portfolio was built as a placeholder while the proper portfolio was being developed.
 
 [New Portfolio Here](https://www.rixiobarrios.com)
